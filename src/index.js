@@ -1,7 +1,8 @@
 import "./styles.css";
 
 document.getElementById("app").innerHTML = `
-<h1>Hello Vanilla!hogehoge</h1>
+<h1>Hello Vanilla!hogehogehoge</h1>
+korekore
 <div>
   We use the same configuration as Parcel to bundle this sandbox, you can find more
   info about Parcel 
